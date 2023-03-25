@@ -1,6 +1,6 @@
 # Hello There! I'm Farah Adibah👋
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk4ODQ0ZjFhZThmYTQ3ZDcxMDk1ZmZhZjA1NzEyNzc4NDk2YWJjNCZjdD1z/Pn6lIQBz4eCH3wS6aK/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk4ODQ0ZjFhZThmYTQ3ZDcxMDk1ZmZhZjA1NzEyNzc4NDk2YWJjNCZjdD1z/Pn6lIQBz4eCH3wS6aK/giphy.gif">
 
 
 I'm a first year Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
@@ -38,5 +38,7 @@ Linkedln : https://www.linkedin.com/in/nur-farah-adibah-7383b5266
 
 # Nice to meet you
 
+
 ![BearHugGIF](https://user-images.githubusercontent.com/128114912/227106161-8ed26296-3968-4a74-8547-26c8bd94244f.gif)
+
 
