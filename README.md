@@ -1,6 +1,9 @@
 # Hello There! I'm Farah Adibah👋
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/alpaca-futupacas-codepaca-Pn6lIQBz4eCH3wS6aK">
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/alpaca-futupacas-codepaca-Pn6lIQBz4eCH3wS6aK/fullscreen
+">
+
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/alpaca-futupacas-codepaca-Pn6lIQBz4eCH3wS6aK/fullscreen">
 
 
 I'm a first year Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
