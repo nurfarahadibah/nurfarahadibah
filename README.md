@@ -14,8 +14,6 @@ Hold interested and passionate in Big Data, Artificial Intelligence, IoT, Data S
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurfarahadibah&label=Profile%20views&color=0e75b6&style=flat" alt="nurfarahadibah" /> </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
