@@ -1,7 +1,5 @@
 # Hello There! I'm Farah Adibah👋
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk4ODQ0ZjFhZThmYTQ3ZDcxMDk1ZmZhZjA1NzEyNzc4NDk2YWJjNCZjdD1z/Pn6lIQBz4eCH3wS6aK/giphy.gif">
-
 
 I'm a first year Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
 
