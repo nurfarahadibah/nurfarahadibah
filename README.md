@@ -15,7 +15,8 @@ Hold interested and passionate in Big Data, Artificial Intelligence, IoT, Data S
 - [Quotation and Invoicing System]()
 - [Perfume Shopping System](https://github.com/nurfarahadibah/Perfume-System)
 
-
+## 🏆 Certifications 🎖️
+<table> <tr> <td align="center"> <a href="https://www.credly.com/badges/a0e829e5-5c32-4935-a5ea-a5e0eaca8d3e"> <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/azure%20fundamental.png" width="100px" height="auto"/><br/> <b>Microsoft Certified: Azure Fundamentals</b> </a> </td>  </tr> </table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
