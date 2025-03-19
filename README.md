@@ -1,8 +1,7 @@
 # Hello There! I'm Farah Adibah👋
 
 
-I'm a first year Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
-
+I'm a Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
 Hold interested and passionate in Big Data, Artificial Intelligence, IoT, Data Science and Machine Learning
 
 
@@ -11,6 +10,10 @@ Hold interested and passionate in Big Data, Artificial Intelligence, IoT, Data S
 👩‍🎓Student at Universiti Teknologi Malaysia | Bachelor of Computer Science (Data Engineering) with honours
 
 
+## Projects📗
+- Car Booking System (https://github.com/nurfarahadibah/Car-Booking-System)
+- Quotation and Invoicing System ()
+- Perfume Shopping System (https://github.com/nurfarahadibah/Perfume-System)
 
 
 
