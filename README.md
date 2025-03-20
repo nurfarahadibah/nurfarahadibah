@@ -14,6 +14,8 @@ Hold interested and passionate in Big Data, Artificial Intelligence, Data Engine
 - [Car Booking System](https://github.com/nurfarahadibah/Car-Booking-System)
 - [Quotation and Invoicing System]()
 - [Perfume Shopping System](https://github.com/nurfarahadibah/Perfume-System)
+- [Educational Resource App](https://github.com/nurfarahadibah/Jamin-Belaja)
+- [Data Analytics Programming Project](https://github.com/nurfarahadibah/Data-Analytics-Programming-Project)
 
 ## 🏆 Certifications 🎖️
 <table> <tr> <td align="center"> <a href="https://www.credly.com/badges/a0e829e5-5c32-4935-a5ea-a5e0eaca8d3e"> <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/azure%20fundamental.png" width="100px" height="auto"/><br/> <b>Microsoft Certified: Azure Fundamentals</b> </a> </td>  </tr> </table>
