@@ -2,7 +2,7 @@
 
 
 I'm a Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
-Hold interested and passionate in Big Data, Artificial Intelligence, IoT, Data Science and Machine Learning
+Hold interested and passionate in Big Data, Artificial Intelligence, Data Engineering Data Science and Machine Learning
 
 
 ## Education📗
