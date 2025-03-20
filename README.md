@@ -35,10 +35,9 @@ Hold interested and passionate in Big Data, Artificial Intelligence, Data Engine
 
 
 ## Contact
-<a href="https://linkedin.com/in/nur-farah-adibah-7383b5266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-farah-adibah-7383b5266" height="15" width="15" /></a>
+- <a href="https://linkedin.com/in/nur-farah-adibah-7383b5266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-farah-adibah-7383b5266" height="15" width="15" /></a>
 Linkedln : https://www.linkedin.com/in/nur-farah-adibah-7383b5266
-
-📧Email : nurfarahadibah@graduate.utm.my
+- 📧Email : nurfarahadibah@graduate.utm.my
 
 # Nice to meet you
 
