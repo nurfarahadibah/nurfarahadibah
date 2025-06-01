@@ -19,11 +19,49 @@ Hold interested and passionate in Big Data, Artificial Intelligence, Data Engine
 - 🛍️ [Perfume Shopping System](https://github.com/nurfarahadibah/Perfume-System) 
 - 📚 [Educational Resource App](https://github.com/wannursofea/Data-Pioneeers/tree/main/jamin_belaja) 
 
-
-
 ## Certifications🎖️
-<table> <tr> <td align="center"> <a href="https://www.credly.com/badges/a0e829e5-5c32-4935-a5ea-a5e0eaca8d3e"> <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/azure%20fundamental.png" width="100px" height="auto"/><br/> <b>Microsoft Certified: Azure Fundamentals</b> </a> </td>  </tr> </table>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a0e829e5-5c32-4935-a5ea-a5e0eaca8d3e">
+        <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/azure%20fundamental.png" width="80px" height="auto"/><br/>
+        <b><small><b>Microsoft Certified: Azure Fundamentals</b></small></b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/47dae742-6284-4e64-931d-7f7dfffd7451/public_url">
+        <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/aws-academy-graduate-aws-academy-cloud-foundations.png" width="80px" height="auto"/><br/>
+        <b><small><b>AWS Academy Graduate - AWS Academy Cloud Foundations</b></small></b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/f1f93b1f-b2b9-437e-9449-8052bb35d15b/public_urlk">
+        <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/aws-academy-graduate-aws-academy-cloud-developing.png" width="80px" height="auto"/><br/>
+        <b><small><b>AWS Academy Graduate - AWS Academy Cloud Developing</b></small></b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/47807959-4452-4354-b5da-011f6654af58/public_url">
+        <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/aws-academy-graduate-aws-academy-cloud-data-pipelin.png" width="80px" height="auto"/><br/>
+        <b><small><b>AWS Academy Graduate - AWS Academy Cloud Data Pipeline...</b></small></b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/39024289-74e4-49da-b43b-d5883d7e92a4/public_url">
+        <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/alteryx-designer-core-certification.png" width="80px" height="auto"/><br/>
+        <b><small><b>Alteryx Designer Core Certification</b></small></b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://github.com/nurfarahadibah/nurfarahadibah/blob/main/image/certificate/skill-builder-colorful.svg" width="80px" height="auto"/><br/>
+        <b><small><b>Data Engineering on AWS - Foundations</b></small></b>
+      </a>
+    </td>
+    <td></td> </tr>
+</table>
 <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
