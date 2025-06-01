@@ -60,7 +60,7 @@ Hold interested and passionate in Big Data, Artificial Intelligence, Data Engine
         <b><small><b>Data Engineering on AWS - Foundations</b></small></b>
       </a>
     </td>
-    <td></td> </tr>
+    </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
 
