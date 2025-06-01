@@ -86,6 +86,10 @@ Hold interested and passionate in Big Data, Artificial Intelligence, Data Engine
 ![RapidMiner](https://img.shields.io/badge/-RapidMiner-FF7300?style=flat-square&logo=rapidminer&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E12127?style=flat-square&logo=autodesk&logoColor=white)
 ![Orange](https://img.shields.io/badge/-Orange-FF8000?style=flat-square&logo=orange&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-FF8000?style=flat-square&logo=alteryx&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Azure Storage Explorer](https://img.shields.io/badge/-Azure%20Storage%20Explorer-0078D4?style=flat-square&logo=azure&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarahadibah&show_icons=true&locale=en&layout=compact" alt="nurfarahadibah" /></p>
 
