@@ -1,7 +1,7 @@
 # Hello There! I'm Farah Adibah👋
 
 
-A passionate and motivated Computer Science student with a strong interest in data engineering and hands-on experience in developing web-based systems. Recently developed skills in data cleaning, transformation, and orchestration through practical work with Azure Data Factory, managing data across Azure Storage, Data Lake Gen2, and SQL databases. Eager to contribute and grow in a dynamic, data-focused tech environment.
+A passionate and motivated Computer Science student with a strong interest in data engineering and hands-on experience in developing web-based systems. Recently developed skills in data cleaning and transformation through practical work with Azure Data Factory, managing data across Azure Storage, Data Lake Gen2, and SQL databases. Eager to contribute and grow in a dynamic, data-focused tech environment.
 
 
 ## Education📗
