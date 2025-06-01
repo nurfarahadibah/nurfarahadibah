@@ -1,8 +1,7 @@
 # Hello There! I'm Farah Adibah👋
 
 
-I'm a Data Engineering student from Gurun, Kedah. I am passionate and eager to learn new technologies that progress over the years. 
-Hold interested and passionate in Big Data, Artificial Intelligence, Data Engineering Data Science and Machine Learning
+A passionate and motivated Computer Science student with a strong interest in data engineering and hands-on experience in developing web-based systems. Recently developed skills in data cleaning, transformation, and orchestration through practical work with Azure Data Factory, managing data across Azure Storage, Data Lake Gen2, and SQL databases. Eager to contribute and grow in a dynamic, data-focused tech environment.
 
 
 ## Education📗
