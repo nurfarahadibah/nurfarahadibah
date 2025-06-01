@@ -11,7 +11,8 @@ Hold interested and passionate in Big Data, Artificial Intelligence, Data Engine
 
 
 ## Projects 📂
-
+- 🧩 [ETL Process for Employee Data using Azure Data Factory](https://github.com/nurfarahadibah/adf-project1/tree/main)
+- ☁️ Azure Data Factory for Data Engineer – Project on COVID-19
 - 📊 [Data Analytics Programming Project](https://github.com/nurfarahadibah/Data-Analytics-Programming-Project)
 - 🚗 [Car Booking System](https://github.com/nurfarahadibah/Car-Booking-System) 
 - 📄 [Quotation and Invoicing System]()  
