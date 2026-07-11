@@ -1,24 +1,97 @@
-# Hello There! I'm Farah Adibah👋
+# Hello There! I'm Farah Adibah 👋
 
+**Data Engineer | Azure & Databricks Specialist | Cloud Infrastructure**
 
-A passionate and motivated Computer Science student with a strong interest in data engineering and hands-on experience in developing web-based systems. Recently developed skills in data cleaning and transformation through practical work with Azure Data Factory, managing data across Azure Storage, Data Lake Gen2, and SQL databases. Eager to contribute and grow in a dynamic, data-focused tech environment.
+A passionate and motivated Computer Science student specializing in Data Engineering with hands-on enterprise experience. I specialize in designing ETL/ELT pipelines, implementing Medallion Architecture, and managing scalable data infrastructure using Azure and Databricks. Eager to contribute my skills in data transformation, pipeline orchestration, and data quality validation to a dynamic, data-focused tech environment.
 
+---
 
-## Education📗
+## 💼 Professional Experience
 
-👩‍🎓Student at Universiti Teknologi Malaysia | Bachelor of Computer Science (Data Engineering) with honours
+**IT Intern (Data Engineer) — Data Lake Engineering & Project Development**
+*PPG Coatings | Subang Jaya, Malaysia | August 2025 – July 2026*
+* **Data Integration & Curated Layers:** Developed analytical SQL and Python scripts within Databricks notebooks to process, transform, and load data across the integration, gold, and curated layers of the Enterprise Data Lake.
+* **Data Quality & Validation:** Conducted rigorous data sanity checks within the Data Lake to ensure accurate data loading and iteratively refined Spark/notebook scripts based on analyst feedback.
+* **CI/CD & Deployment Management:** Managed code deployment life cycles by raising Pull Requests in Databricks and Azure DevOps to transition verified code to UAT, coordinating approvals, and verifying production environments post-deployment.
+* **Semantic Models & Visualization Maintenance:** Resolved complex reporting issues in enterprise Power BI dashboards utilizing Tabular Editor, fixing broken visuals and restoring missing columns before publishing to Microsoft Fabric workspaces.
+* **Pipeline Monitoring & Auditing:** Validated dataset metrics across UAT and Production environments, and actively monitored Azure Data Factory (ADF) execution logs to ensure operational reliability.
 
+---
 
-## Projects 📂
-- 🍕 [Pizza Sales Data Pipeline: A Medallion Architecture Implementation](https://github.com/nurfarahadibah/Pizza_DataPipeline/tree/main)
-- 🧩 [ETL Process for Employee Data using Azure Data Factory](https://github.com/nurfarahadibah/adf-project1/tree/main)
-- ☁️ Azure Data Factory for Data Engineer – Project on COVID-19
-- 📊 [Data Analytics Programming Project](https://github.com/nurfarahadibah/Data-Analytics-Programming-Project)
-- 🚗 [Car Booking System](https://github.com/nurfarahadibah/Car-Booking-System) 
-- 📄 [Quotation and Invoicing System]()  
-- 🛍️ [Perfume Shopping System](https://github.com/nurfarahadibah/Perfume-System) 
-- 📚 [Educational Resource App](https://github.com/wannursofea/Data-Pioneeers/tree/main/jamin_belaja) 
+## 🛠️ Data Engineering Tech Stack
 
+<h3 align="left">Data Tools & Compute</h3>
+<p>
+<img alt="Databricks" src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img alt="Azure Data Factory" src="https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat-square&logo=azure-devops&logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img alt="Microsoft Fabric" src="https://img.shields.io/badge/-Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img alt="SSMS" src="https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<img alt="Alteryx" src="https://img.shields.io/badge/-Alteryx-FF8000?style=flat-square&logo=alteryx&logoColor=white" />
+</p>
+
+<h3 align="left">Cloud Storage & DevOps</h3>
+<p>
+<img alt="Azure Data Lake Gen2" src="https://img.shields.io/badge/-Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt="Azure Blob Storage" src="https://img.shields.io/badge/-Azure%20Blob%20Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<h3 align="left">Languages & Visualization</h3>
+<p>
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Additional Tools & Frameworks
+<p>
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img alt="Azure Storage Explorer" src="https://img.shields.io/badge/-Azure%20Storage%20Explorer-0078D4?style=flat-square&logo=azure&logoColor=white" />
+<img alt="RapidMiner" src="https://img.shields.io/badge/-RapidMiner-FF7300?style=flat-square&logo=rapidminer&logoColor=white" />
+<img alt="Orange" src="https://img.shields.io/badge/-Orange-FF8000?style=flat-square&logo=orange&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<img alt="SketchUp" src="https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
+<img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-E12127?style=flat-square&logo=autodesk&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+* 🍕 **[Pizza Sales Data Pipeline: A Medallion Architecture Implementation](https://github.com/nurfarahadibah/Pizza_DataPipeline/tree/main)**
+  * *Processed raw transactional pizza sales data through Bronze and Silver pipeline layers using SQL Server, Python, and SQL to generate clean Parquet files.*
+* 🧩 **[ETL Process for Employee Data using Azure Data Factory](https://github.com/nurfarahadibah/adf-project1/tree/main)**
+  * *Created cloud-native pipelines inside Azure Data Factory (ADF) using Mapping Data Flows and Linked Services to automate data extraction from Azure Blob Storage into Data Lake Gen2.*
+* ☁️ **Azure Data Factory for Data Engineer – Project on COVID-19**
+* 📊 **[Data Analytics Programming Project](https://github.com/nurfarahadibah/Data-Analytics-Programming-Project)**
+* 🚗 **[Car Booking System](https://github.com/nurfarahadibah/Car-Booking-System)** 
+
+---
+
+## 📗 Education
+
+**Universiti Teknologi Malaysia (UTM)** | *Johor Bahru, Malaysia*
+👩‍🎓 Bachelor of Computer Science (Data Engineering) with honours
+* **Timeline:** Oct 2022 – Oct 2026
+* **CGPA:** 3.96 / 4.00
+
+---
 ## Certifications🎖️
 <table>
   <tr>
@@ -62,33 +135,6 @@ A passionate and motivated Computer Science student with a strong interest in da
     </td>
     </tr>
 </table>
-<h3 align="left">Languages and Tools:</h3>
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
-![RapidMiner](https://img.shields.io/badge/-RapidMiner-FF7300?style=flat-square&logo=rapidminer&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E12127?style=flat-square&logo=autodesk&logoColor=white)
-![Orange](https://img.shields.io/badge/-Orange-FF8000?style=flat-square&logo=orange&logoColor=white)
-![Alteryx](https://img.shields.io/badge/-Alteryx-FF8000?style=flat-square&logo=alteryx&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
-![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Azure Storage Explorer](https://img.shields.io/badge/-Azure%20Storage%20Explorer-0078D4?style=flat-square&logo=azure&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarahadibah&show_icons=true&locale=en&layout=compact" alt="nurfarahadibah" /></p>
 
