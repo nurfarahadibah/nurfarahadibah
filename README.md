@@ -9,6 +9,7 @@ A passionate and motivated Computer Science student specializing in Data Enginee
 ## 💼 Professional Experience
 
 **IT Intern (Data Engineer) — Data Lake Engineering & Project Development**
+
 *PPG Coatings | Subang Jaya, Malaysia | August 2025 – July 2026*
 * **Data Integration & Curated Layers:** Developed analytical SQL and Python scripts within Databricks notebooks to process, transform, and load data across the integration, gold, and curated layers of the Enterprise Data Lake.
 * **Data Quality & Validation:** Conducted rigorous data sanity checks within the Data Lake to ensure accurate data loading and iteratively refined Spark/notebook scripts based on analyst feedback.
