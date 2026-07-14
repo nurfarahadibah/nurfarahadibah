@@ -74,7 +74,8 @@ A passionate and motivated Computer Science student specializing in Data Enginee
 ---
 
 ## 📂 Featured Projects
-
+* 🥖 **[Bakehouse Sales Analytics: End-to-End Databricks Pipeline & Dashboard](https://github.com/nurfarahadibah/bakehouse-sales-analytics/tree/main)**
+  * *Engineered an automated data pipeline using Databricks Serverless compute and Spark SQL to process operational franchise sales data through a Medallion Architecture. Transformed raw transaction streams into an optimized Star Schema (Fact/Dimension modeling) and developed a high-performance interactive executive dashboard to visualize core KPIs, product revenue trends, and franchise performance.*
 * 🍕 **[Pizza Sales Data Pipeline: A Medallion Architecture Implementation](https://github.com/nurfarahadibah/Pizza_DataPipeline/tree/main)**
   * *Processed raw transactional pizza sales data through Bronze and Silver pipeline layers using SQL Server, Python, and SQL to generate clean Parquet files.*
 * 🧩 **[ETL Process for Employee Data using Azure Data Factory](https://github.com/nurfarahadibah/adf-project1/tree/main)**
