@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20&height=200&section=header&text=Hi,%20I'm%20Farah%20Adibah👋!&fontSize=40&desc=Aspiring%20Data%20Engineer&descSize=20&descAlignVertical=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20&height=250&section=header&text=Hi,%20I'm%20Farah%20Adibah👋!&fontSize=40&desc=Aspiring%20Data%20Engineer&descSize=20&descAlignVertical=60&animation=fadeIn)
 
 **Data Engineer | Azure & Databricks Specialist | Cloud Infrastructure**
 
